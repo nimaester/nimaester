@@ -9,9 +9,6 @@ The technologies that I use are:
   - Node.js
   - MongoDB
 
-
-![Nimaester Github Stats](https://github-readme-stats.vercel.app/api?username=nimaester&show_icons=true&theme=dracula)
-
 I'm keen on details and a firm believer in teamwork and equality. I enjoy working in diverse groups and I always strive for personal growth. When I'm not coding, I enjoy taking walks with my dogs (we have 6 little chihuahuas in our household), Listening to music, and watching videos about new technologies that are out there. <br>
 
 I am currently working on personal projects that helps me grow my knowledge for software engineering. I am open to new opportunities and would like to hear from you. <br>
