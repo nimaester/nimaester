@@ -8,8 +8,8 @@ The technologies that I use are:
   - Redux
   - Node.js
   - MongoDB
-
-
+  - 
+![Nimaester Github Stats](https://github-readme-stats.vercel.app/api?username=nimaester&show_icons=true&theme=dracula)
 
 I'm keen on details and a firm believer in teamwork and equality. I enjoy working in diverse groups and I always strive for personal growth. When I'm not coding, I enjoy taking walks with my dogs (we have 6 little chihuahuas in our household), Listening to music, and watching videos about new technologies that are out there. <br>
 
@@ -20,7 +20,6 @@ My email is nimtayo@gmail.com <br>
 You can check my online portfolio here: https://nimpersonalsite.netlify.app/#/ <br>
 
 You can also add me on LinkedIn: https://www.linkedin.com/in/nimtayo/ 
-
 
 <!--
 **nimaester/nimaester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
