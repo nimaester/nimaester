@@ -1,4 +1,4 @@
-### Hey!! Thanks for stopping by at my page 👋
+### Thanks for stopping by at my page👋
 
 My name is Nim Tayo and I am a Full Stack Software Engineer. <br><br>
 The technologies that I use are:
