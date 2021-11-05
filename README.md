@@ -8,6 +8,8 @@ The technologies that I use are:
   - Redux
   - Node.js
   - MongoDB
+  - Jest
+  - AWS (S3, EC2)
 
 I'm keen on details and a firm believer in teamwork and equality. I enjoy working in diverse groups and I always strive for personal growth. When I'm not coding, I enjoy taking walks with my dogs (we have 6 little chihuahuas in our household), Listening to music, and watching videos about new technologies that are out there. <br>
 
